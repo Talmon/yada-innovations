@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+We have used a template from BizPage
 
 Template Name: BizPage
 Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
